@@ -7,3 +7,4 @@ name: <your name here>
 link: <link to your profile>
 ```
 Without the `<>`.
+Finally, submit a pull request so we will add you to the program.
